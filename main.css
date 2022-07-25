@@ -958,6 +958,11 @@ span {
         width: 850px;
         height: 250px;
     }
+    .text {
+       
+        width: 500px;
+       
+    }
 
     .flex3 {
 
@@ -1219,6 +1224,11 @@ span {
         top: -330px;
         width: 850px;
         height: 250px;
+    }
+    .text {
+       
+        width: 400px;
+       
     }
 
     .flex3 {
@@ -1506,6 +1516,11 @@ span {
         width: 850px;
         height: 250px;
         left: -48px;
+    }
+    .text {
+       
+        width: 300px;
+       
     }
 
     .flex3 {
